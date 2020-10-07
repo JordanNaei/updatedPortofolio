@@ -1,0 +1,165 @@
+/*Navbar section */
+#navbar {
+  background-color: #519872;
+
+}
+
+.nav-link {
+  font-weight: 500;
+}
+
+/* Bio Section */
+
+#Bio {
+  background-color: #91d18b;
+}
+
+.Bio-head {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.bio-p {
+  padding: 3%;
+  color: black;
+  font-weight: 600;
+  text-align: left;
+  line-height: 2;
+}
+
+.title-image {
+  padding-bottom: 1rem;
+  border-radius: 100%;
+  width: 70%;
+  margin-left: 30%;
+  padding: 3%;
+}
+
+/*hoppies section  */
+
+.interest-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #96bb7c;
+  margin-bottom: 1rem;
+}
+
+/* higlights section */
+
+#highlights {
+  background-color: #91d18b;
+  text-align: center;
+}
+
+.car-item-pd {
+  padding-bottom: 4rem;
+}
+
+.carousel-inner {
+  padding: 5%;
+}
+
+.car-h {
+  margin-bottom: 2rem;
+}
+
+/* footer section */
+
+#footer {
+  text-align: center;
+  padding: 5%;
+}
+
+.f-icon {
+  padding: 10px;
+  color: black !important;
+}
+
+.f-icon:hover {
+  color: #28df99 !important;
+}
+
+.footer-p {
+  margin-top: 10px;
+}
+
+
+
+
+/* Cotact Me Page */
+
+#Contact-me {
+  padding-top: 3%;
+}
+
+/* Cotact Response Page */
+
+.contact-message {
+  text-align: center;
+  margin: 3%;
+  font-size: x-large;
+}
+
+/* Portfolio Page */
+
+#portfolio-pics {
+  text-align: center;
+}
+
+.port-1 {
+  padding: 3%;
+}
+
+.port-2 {
+  padding: 3%;
+}
+
+.pic1 {
+  margin: auto;
+}
+
+.pic2 {
+  margin: auto;
+}
+
+.pic1-port1 {
+  transform: rotate(-20deg);
+}
+
+.pic3-port1 {
+  transform: rotate(20deg);
+}
+
+/* Portfolio Media Querie */
+
+@media (max-width: 995px) {
+  .pic1-port1 {
+    padding-bottom: 50px;
+    transform: rotate(0deg);
+  }
+  .pic2-port1 {
+    padding-bottom: 50px;
+  }
+  .pic3-port1 {
+    transform: rotate(0deg);
+  }
+  .pic1-port2 {
+    padding-bottom: 50px;
+  }
+  .pic2-port2 {
+    padding-bottom: 50px;
+  }
+}
+
+.listy{
+  color: white !important;
+  font-weight: 700 !important;
+}
+
+.listy:hover {
+  background-color: #28df99 !important;
+  border-radius: 50px !important;
+}

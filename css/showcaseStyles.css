@@ -1,0 +1,122 @@
+/* body styling */
+
+* {
+    box-sizing: border-box !important;
+}
+
+body {
+    background-image: url("../images/210901.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    overflow: auto !important;
+}
+
+/* navbar */
+
+#navbar {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.media {
+    /* background-color: transparent !important; */
+    border-radius: 10px !important;
+    margin-top: 20px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 65% !important;
+    text-align: center !important;
+    display: flex !important;
+    align-content: center !important;
+    justify-content: center !important;
+    color: white !important;
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    font-weight: 500 !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.sImages {
+    padding: 10px !important;
+    border-radius: 15px !important;
+    width: 400px !important;
+    height: 300px !important;
+}
+
+.appDisplayHeader {
+    padding: 10px !important;
+    margin-top: auto !important;
+    font-weight: bold !important;
+    color: #28df99 !important;
+}
+
+.heading {
+    width: 100% !important;
+}
+
+.dis {
+    text-align: left !important;
+    padding: 10px !important;
+    color: #f1fff1 !important;
+    font-size: 1rem !important;
+    line-height: 1.4rem !important;
+}
+
+.appLinks {
+    margin-right: 60px !important;
+    color: #28df99 !important;
+}
+
+.appRepo {
+    color: #28df99 !important;
+}
+
+/* h4 {
+    font-weight: bold !important;
+    color: #28df99 !important;
+} */
+
+.links {
+    padding: 10px !important;
+}
+
+.lastDiv{
+    margin-bottom: 20px !important;
+}
+
+/* footer section */
+
+#footer {
+    text-align: center;
+    /* padding: 5%; */
+    padding: 0% !important;
+    color: white !important;
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    display: flex !important;
+    align-content: center !important;
+    justify-content: center !important;
+}
+
+.f-icon {
+    color: white !important;
+}
+
+.f-icon:hover {
+    color: #28df99 !important;
+}
+
+@media (max-width: 1027px) {
+    
+.sImages{
+    display: none;
+}
+} 
+
+@media (max-width: 1089px) {
+.icons {
+    display: none !important;
+}
+
+}
