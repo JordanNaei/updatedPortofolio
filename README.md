@@ -56,7 +56,7 @@ Mobile Friendly checker:
 
 ####
 DevTool Test:
-<img src="Images/devT.PNG" alt= "this is the DevTool Test">
+<img src="images/devT.PNG" alt= "this is the DevTool Test">
 
 ####
 License: ISO
