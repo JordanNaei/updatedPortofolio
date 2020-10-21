@@ -52,7 +52,7 @@ Deployed application URL: https://jordannaei.github.io/updatedPortofolio/showcas
 
 ####
 Mobile Friendly checker:
-<img src="images/mTest.PNG" alt= "this is the Mobile Test">
+<img src="images/npm-i.PNG" alt= "this is the Mobile Test">
 
 ####
 DevTool Test:
