@@ -4,7 +4,7 @@ This project aimed to enhace our portofolio page by adding some extra functional
 
 ## Updated Portfolio Summary
 
-The updated portfolio contain the following:
+The updated portfolio contain the following within the Showcase Page:
 
 1. My full name. (pass)
 2. Links to your GitHub profile & LinkedIn page via footer icons. (pass)
@@ -15,6 +15,7 @@ The updated portfolio contain the following:
    - Link to the GitHub repository (pass)
    - Screenshot of the deployed application (pass)
 5. Ensure that your portfolio is free of grammar and spelling mistakes (pass)
+6. Including the 2 main projects; eatWhere and passiveIncome, we delivered so far within the showcase page of our portfolio website.
 
 ## We leveraged the following technology and resources in our implementation:
 
